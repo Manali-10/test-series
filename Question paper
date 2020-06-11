@@ -248,5 +248,7 @@ Ans : semaphore : signaling mechanism.
       but differece is whenever you allocate memory with calloc they initialize with 0 other hand malloc not initize with 0 they have garbage value.
     
       
+      
+      
  
      
